@@ -1,0 +1,20 @@
+{
+  "name": "require",
+  "main": "require.js",
+  "authors": [
+    "empty_back <2467030399@qq.com>"
+  ],
+  "description": "require",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "require-css": "^0.1.10"
+  }
+}
